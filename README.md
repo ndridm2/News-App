@@ -29,5 +29,5 @@ RecyclerView – Menampilkan daftar data
 Room Database (Opsional) – Menyimpan data bookmark secara lokal
 
 ## Application
-![ScreenRecording2025-02-03at15 46 04-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/44562c65-97eb-4a68-b83d-7b5520db33dc)
+<img width="344" alt="news app" src="https://github.com/user-attachments/assets/44562c65-97eb-4a68-b83d-7b5520db33dc">
 
