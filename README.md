@@ -28,3 +28,6 @@ RecyclerView – Menampilkan daftar data
 
 Room Database (Opsional) – Menyimpan data bookmark secara lokal
 
+## Application
+https://github.com/user-attachments/assets/2e6cf405-9423-468e-a491-1ebe41255336
+
